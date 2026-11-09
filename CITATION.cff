@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "Если вы используете этот код, сошлитесь на него и на статью."
+title: "uav-claims-sim: имитационная модель децентрализованного распределения задач ситуационного мониторинга при эпизодической связи"
+version: 1.0.0
+date-released: 2026-11-09
+license: MIT
+repository-code: "https://github.com/ACCOUNT/uav-claims-sim"
+authors:
+  - family-names: Kirillov
+    given-names: Grigory
+    affiliation: "Moscow Financial and Industrial University “Synergy”"
+  - family-names: Al-Merri
+    given-names: Gais
+    affiliation: "Moscow Financial and Industrial University “Synergy”"
+preferred-citation:
+  type: conference-paper
+  title: "Децентрализованное распределение задач ситуационного мониторинга территорий между автономными агентами при эпизодической связи"
+  authors:
+    - family-names: Al-Merri
+      given-names: Gais
+    - family-names: Kirillov
+      given-names: Grigory
+  collection-title: "Перспективные телекоммуникационные технологии и развитие цифровых кластеров в России и мире (ПКМ 2026): сборник научных статей"
+  year: 2026
